@@ -1,4 +1,4 @@
-# Git and Docker Health Guide
+# Git and Docker Health and Usage Guide
 
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
